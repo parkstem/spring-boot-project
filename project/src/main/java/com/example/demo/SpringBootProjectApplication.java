@@ -16,7 +16,7 @@ public class SpringBootProjectApplication {
 	
 	@RequestMapping("/")
 	public String homepage() {
-		return "helloworld";
+		return "helloworld 박줄기";
 	}
 
 }
